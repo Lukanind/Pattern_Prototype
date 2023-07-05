@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/planet_texture.png</file>
+        <file>images/red_planet.png</file>
+        <file>images/gray_planet.png</file>
+    </qresource>
+</RCC>
